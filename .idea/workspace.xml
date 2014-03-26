@@ -70,7 +70,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="37" selection-start="1420" selection-end="1420" vertical-scroll-proportion="-5.576923" vertical-offset="433" max-vertical-offset="1258">
+            <state line="33" column="87" selection-start="1469" selection-end="1469" vertical-scroll-proportion="-6.8846154" vertical-offset="382" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -106,16 +106,16 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/skel/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="21" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="1139">
+            <state line="72" column="4" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0" vertical-offset="564" max-vertical-offset="1445">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="92" selection-start="397" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+            <state line="69" column="45" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.5862069" vertical-offset="816" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
@@ -130,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-narrow.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style-narrow.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/skel/style-narrow.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="38" selection-start="257" selection-end="257" vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="1020">
+            <state line="21" column="38" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -158,13 +158,13 @@
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/js/calculator.js" />
         <option value="$PROJECT_DIR$/test/spec/calculatorSpec.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/skel/style.css" />
         <option value="$PROJECT_DIR$/css/skel/style-mobile.css" />
         <option value="$PROJECT_DIR$/css/skel/style-narrow.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/skel/style.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -539,12 +539,12 @@
       <created>1395688954279</created>
       <updated>1395688954279</updated>
       <workItem from="1395688959851" duration="10927000" />
-      <workItem from="1395858316576" duration="7786000" />
+      <workItem from="1395858316576" duration="9894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18713000" />
+    <option name="totallyTimeSpent" value="20821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -680,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/calculator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="986">
@@ -701,23 +694,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="37" selection-start="1420" selection-end="1420" vertical-scroll-proportion="-5.576923" vertical-offset="433" max-vertical-offset="1258">
+        <state line="19" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/skel/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="21" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="1139">
+        <state line="72" column="4" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0" vertical-offset="564" max-vertical-offset="1445">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="92" selection-start="397" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+        <state line="33" column="87" selection-start="1469" selection-end="1469" vertical-scroll-proportion="-6.8846154" vertical-offset="382" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/skel/style-narrow.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="38" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
@@ -729,9 +729,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/skel/style-narrow.css">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="38" selection-start="257" selection-end="257" vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="1020">
+        <state line="69" column="45" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.5862069" vertical-offset="816" max-vertical-offset="1581">
           <folding />
         </state>
       </provider>

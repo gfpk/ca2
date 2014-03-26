@@ -14,12 +14,21 @@ window._skel_config = {
 
 $(document).ready(function() {
 
+    $('#message-discard').click(function(){
+        $("#message").hide(300);
+    });
+    function displayMsg(txt){
+        $("#message-inner").text(txt);
+        $("#message").show(300);
+    };
+
     $("#addBtn").click(function() {
 
         var num1 = $("#num1").val();
         var num2 = $("#num2").val();
         if ((num1.length == 0) || (num2.length ==0)){
-            alert("need two numbers Hombre")
+            displayMsg("need two numbers Hombre");
+
         }
         else {
             $("#result").val(Calculator.addIt(num1, num2));
@@ -31,7 +40,7 @@ $(document).ready(function() {
         var num1 = $("#num1").val();
         var num2 = $("#num2").val();
         if ((num1.length == 0) || (num2.length ==0)){
-            alert("need two numbers Hombre")
+            adisplayMsg("need two numbers Hombre");
         }
         else {
             $("#result").val(Calculator.subtractIt(num1, num2));
@@ -43,7 +52,7 @@ $(document).ready(function() {
         var num1 = $("#num1").val();
         var num2 = $("#num2").val();
         if ((num1.length == 0) || (num2.length ==0)){
-            alert("need two numbers Hombre")
+            displayMsg("need two numbers Hombre");
         }
         else {
             $("#result").val(Calculator.multiplyIt(num1, num2));
@@ -55,10 +64,11 @@ $(document).ready(function() {
         var num1 = $("#num1").val();
         var num2 = $("#num2").val();
         if ((num1.length == 0) || (num2.length ==0)){
-            alert("need two numbers Hombre")
+            displayMsg("need two numbers Hombre");
         }
-        if (num2 == 0){
-            alert("cannot divide by '0'Hombre")
+        else if (num2 == 0){
+            displayMsg("cannot divide by '0' Hombre");
+
         }
         else {
             $("#result").val(Calculator.divideIt(num1, num2));
