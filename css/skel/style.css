@@ -12,20 +12,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .button {
-	border-radius: 0.5em;
-	box-shadow: inset 0 0 0 2px #555;
-	color: #555;
-	color: #555;
-	display: inline-block;
-	text-decoration: none;
+
+    border-radius: 9px;
+    color: #FFFFFF;
+    font-size: 1.75em;
+    padding: 9px 31px;
+    text-decoration: none;
+    margin:3px;
+    text-align: center;
+    display: inline-block;
+    background:#3880F5
 }
+.button.big
+{   width: 100%;
+    background: none repeat scroll 0 0 #E24E42;}
 input {
     border-radius: 2px;
-    border:2px solid #999;
+    border:1px solid #999;
     color: #555;
     color: #555;
     display: inline-block;
     text-decoration: none;
+    padding:8px;
 }
 #nav a {
 	color: #fff;
@@ -38,7 +46,13 @@ input {
 	color: #555;
 	text-align: center;
 }
-
+h1{
+    margin:20px 0;
+}
+#main
+{
+    margin-top: 20px;
+}
 #footer {
 	color: #62696c;
 	text-align: center;
