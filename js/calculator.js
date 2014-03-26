@@ -11,7 +11,7 @@ var Calculator = (function() {
             if ((isNaN(num1) == true) || (isNaN(num2) == true)  ) {
                 throw new Error ("On of fields is not an number");
             }
-            result = num1 + num2;
+            result = (parseInt(num1)+ parseInt(num2));
 
             return result;
         },

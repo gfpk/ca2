@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculator.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="calculator.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/calculator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+            <state line="13" column="51" selection-start="315" selection-end="315" vertical-scroll-proportion="0.36288998" vertical-offset="0" max-vertical-offset="609">
               <folding />
             </state>
           </provider>
@@ -112,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="12" selection-start="687" selection-end="687" vertical-scroll-proportion="0.3858785" vertical-offset="173" max-vertical-offset="816">
+            <state line="24" column="12" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -142,8 +142,8 @@
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/calculator.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/calculator.js" />
       </list>
     </option>
   </component>
@@ -486,12 +486,12 @@
       <created>1395688954279</created>
       <updated>1395688954279</updated>
       <workItem from="1395688959851" duration="10927000" />
-      <workItem from="1395858316576" duration="2327000" />
+      <workItem from="1395858316576" duration="2616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13254000" />
+    <option name="totallyTimeSpent" value="13543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -648,6 +648,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="12" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/calculatorSpec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="2" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
@@ -657,14 +664,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/calculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="12" selection-start="687" selection-end="687" vertical-scroll-proportion="0.3858785" vertical-offset="173" max-vertical-offset="816">
+        <state line="13" column="51" selection-start="315" selection-end="315" vertical-scroll-proportion="0.36288998" vertical-offset="0" max-vertical-offset="609">
           <folding />
         </state>
       </provider>
