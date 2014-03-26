@@ -70,7 +70,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="47" selection-start="2233" selection-end="2238" vertical-scroll-proportion="-15.384615" vertical-offset="569" max-vertical-offset="1326">
+            <state line="54" column="52" selection-start="2388" selection-end="2388" vertical-scroll-proportion="-18.0" vertical-offset="450" max-vertical-offset="1258">
               <folding />
             </state>
           </provider>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculatorSpec.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="calculatorSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/spec/calculatorSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="410" selection-end="410" vertical-scroll-proportion="0.27914613" vertical-offset="0" max-vertical-offset="609">
+            <state line="10" column="32" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
@@ -103,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/skel/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="25" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="901">
+            <state line="46" column="15" selection-start="694" selection-end="694" vertical-scroll-proportion="0.8045977" vertical-offset="292" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -134,17 +134,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/skel/style.css" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/test/js/ConverterSpec.js" />
         <option value="$PROJECT_DIR$/test/spec/converterSpec.js" />
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/js/calculator.js" />
         <option value="$PROJECT_DIR$/test/spec/calculatorSpec.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/skel/style.css" />
       </list>
     </option>
   </component>
@@ -487,12 +487,12 @@
       <created>1395688954279</created>
       <updated>1395688954279</updated>
       <workItem from="1395688959851" duration="10927000" />
-      <workItem from="1395858316576" duration="5586000" />
+      <workItem from="1395858316576" duration="6588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16513000" />
+    <option name="totallyTimeSpent" value="17515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -635,20 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/skel/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="901">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="47" selection-start="2233" selection-end="2238" vertical-scroll-proportion="-15.384615" vertical-offset="569" max-vertical-offset="1326">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1411">
@@ -665,7 +651,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/calculatorSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="32" selection-start="410" selection-end="410" vertical-scroll-proportion="0.27914613" vertical-offset="0" max-vertical-offset="609">
+        <state line="10" column="32" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="52" selection-start="2388" selection-end="2388" vertical-scroll-proportion="-18.0" vertical-offset="450" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/skel/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="15" selection-start="694" selection-end="694" vertical-scroll-proportion="0.8045977" vertical-offset="292" max-vertical-offset="901">
           <folding />
         </state>
       </provider>

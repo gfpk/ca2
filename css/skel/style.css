@@ -1,5 +1,5 @@
 body {
-	background: #8BC43F;
+	background: #fff;
 	color: #b2b9bC;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
@@ -44,5 +44,5 @@ input {
 	text-align: center;
 }
 img{
-    max-width: 200px;
+max-width: 100%;
 }
