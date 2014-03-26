@@ -9,15 +9,41 @@ var Calculator = (function() {
         addIt: function(num1, num2) {
 
             if ((isNaN(num1) == true) || (isNaN(num2) == true)  ) {
-                throw new Error ("On of fields is not an number");
+                throw new Error ("One of fields is not an number");
             }
             result = (parseInt(num1)+ parseInt(num2));
 
             return result;
         },
 
-        subtractIt: function(weight) {
-           return weight * converterValue;
+        subtractIt: function(num1, num2) {
+
+            if ((isNaN(num1) == true) || (isNaN(num2) == true)  ) {
+                throw new Error ("One of fields is not an number");
+            }
+            result = (parseInt(num1)- parseInt(num2));
+
+            return result;
+        },
+
+        multiplyIt: function(num1, num2) {
+
+            if ((isNaN(num1) == true) || (isNaN(num2) == true)  ) {
+                throw new Error ("One of fields is not an number");
+            }
+            result = (parseInt(num1)* parseInt(num2));
+
+            return result;
+        },
+
+        divideIt: function(num1, num2) {
+
+            if ((isNaN(num1) == true) || (isNaN(num2) == true)  ) {
+                throw new Error ("One of fields is not an number");
+            }
+            result = (parseInt(num1)/ parseInt(num2));
+
+            return result;
         }
 
     }
