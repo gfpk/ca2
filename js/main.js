@@ -13,25 +13,31 @@ window._skel_config = {
 };
 
 $(document).ready(function() {
-    $("#convertbutton").click(function() {
-        var metricValue = $("#metricinput").val();
-        var imperialValue = $("#imperialinput").val();
+    $("#addBtn").click(function() {
+        var num1 = $("#num1").val();
+        var num2 = $("#num2").val();
 
 
-        if (((metricValue.length !=0) && (imperialValue.length !=0))
-            || ((metricValue.length == 0) && imperialValue.length == 0)) {
-            alert("Please set one field to convert")
+        if ((num1.length == 0) || (num2.length ==0)){
+                alert("need two numbers Hombre")
         }
-        if (metricValue.length != 0) {
-            $("#imperialinput").val(Converter.convertFromPoundsToKIlo(metricValue));
-        }
-        else if (imperialValue.length != 0) {
-            $("#metricinput").val(Converter.convertFromMetricToImperial(imperialValue));
+
+        else {
+            $("#result").val(Calculator.addIt(num1, num2));
         }
     });
+
+
+
+
+
+
+
+
+
     $("#clearbutton").click(function() {
-        $("#imperialinput").val('');
-        $("#metricinput").val('');
+        $("#num1").val('');
+        $("#num2").val('');
     });
 
 });
