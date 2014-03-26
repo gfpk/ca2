@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculatorSpec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="calculatorSpec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/spec/calculatorSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="2" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="10" column="32" selection-start="410" selection-end="410" vertical-scroll-proportion="0.27914613" vertical-offset="0" max-vertical-offset="609">
               <folding />
             </state>
           </provider>
@@ -97,7 +97,7 @@
       <file leaf-file-name="calculator.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/calculator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="12" selection-start="1198" selection-end="1222" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="935">
+            <state line="43" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="986">
               <folding />
             </state>
           </provider>
@@ -112,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.58128077" vertical-offset="802" max-vertical-offset="1411">
+            <state line="68" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1411">
               <folding />
             </state>
           </provider>
@@ -142,8 +142,9 @@
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/calculator.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/calculator.js" />
+        <option value="$PROJECT_DIR$/test/spec/calculatorSpec.js" />
       </list>
     </option>
   </component>
@@ -486,12 +487,12 @@
       <created>1395688954279</created>
       <updated>1395688954279</updated>
       <workItem from="1395688959851" duration="10927000" />
-      <workItem from="1395858316576" duration="4528000" />
+      <workItem from="1395858316576" duration="5218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15455000" />
+    <option name="totallyTimeSpent" value="16145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -627,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/calculatorSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="544">
@@ -655,16 +649,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/calculator.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="12" selection-start="1198" selection-end="1222" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="935">
+        <state line="68" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1411">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/js/calculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.58128077" vertical-offset="802" max-vertical-offset="1411">
+        <state line="43" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/calculatorSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="410" selection-end="410" vertical-scroll-proportion="0.27914613" vertical-offset="0" max-vertical-offset="609">
           <folding />
         </state>
       </provider>
